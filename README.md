@@ -15,4 +15,4 @@ Imagem com céu estrelado e um pequeno ebook sobre embarcações históricas da 
 [Link para o Ebook.](https://chatgpt.com/c/678e8544-6738-8005-8616-dbf22778ca3b)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo "natty" com IA é desafiador porque, embora a tecnologia seja eficiente, ela ainda depende de padrões e dados pré-existentes, o que pode limitar a criatividade e o toque pessoal que caracterizam algo elegante e único. A IA pode gerar criações funcionais, mas falta-lhe a intuição e a flexibilidade humana para capturar nuances de estilo. Para alcançar algo verdadeiramente refinado, seria necessário treinar a IA com uma vasta diversidade de exemplos, mas também surgem questões sobre autenticidade e autoria. A colaboração entre humanos e IA parece ser o caminho mais promissor para criar algo realmente "natty".
